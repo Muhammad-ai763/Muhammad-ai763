@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Programers
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i am just a 9 year old boy learning programing laguages
+- ⚡ Fun fact
 
 <!---   
 Muhammad-ai763/Muhammad-ai763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
